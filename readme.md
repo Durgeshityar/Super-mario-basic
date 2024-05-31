@@ -1,3 +1,7 @@
+# A basic Mario game with JS and HTML canvas and using express as a server
+
+# Steps in which game is created
+
 1. Project setup : JS and HTML canvas
 
 2. Player Creation :
